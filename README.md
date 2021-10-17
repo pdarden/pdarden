@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Parinda 👋
 
 <!--
 **pdarden/pdarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏳️‍🌈 Pronouns: she/they
+- 🌞 I’m currently the Co-Founder and CTO of [Wildgrid](https://wildgridsolar.com)
+- 🌱 I’m currently learning about renewable energy, and all things Web3.
+- 💻 I love working with Elixir, Phoenix Framework, Ruby, Ruby on Rails, Javascript, NodeJS, ReactJS, GatsbyJS, NextJS, Terraform.
+- 📍 Location: DC <-> NYC
