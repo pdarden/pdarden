@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏳️‍🌈 Pronouns: she/they
-- 🌞 I’m currently the Co-Founder and CTO of [Wildgrid](https://wildgridsolar.com)
-- 🌱 I’m currently learning about renewable energy, and all things Web3.
+- 🌞 I’m currently the Co-Founder and CTO of [Wildgrid.ai](https://wildgrid.ai)
+- 🌱 I’m always learning about renewable energy, and all things Web3.
 - 💻 I love working with Elixir, Phoenix Framework, Ruby, Ruby on Rails, Javascript, NodeJS, ReactJS, GatsbyJS, NextJS, Terraform.
-- 📍 Location: DC <-> NYC
+- 📍 Location: NYC
